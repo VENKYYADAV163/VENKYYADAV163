@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+from django.contrib.auth.models import User
+from yourapp.models import Profile
+
+# Find the user
+user = User.objects.get(username='Venkateshwarlu')
+
+# Create or update the profile
+profile, created = Profile.objects.get_or_create(user=user)
+profile.bio = 'This is Venkateshwarlu\'s bio.'
+profile.save()

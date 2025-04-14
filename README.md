@@ -17,7 +17,8 @@
 - 👨‍💻 More projects are still in development phase....
 - 💬 Ask me about Python,SQL,HTML,CSS,JS
 - 📫 How to reach me: \
-- 📄 Know about my experiences [LinkedIN](https://www.linkedin.com/in/satheesh-reddy2014)
+- 📄 Know about my experiences [LinkedIN]https://www.linkedin.com/in/junkajuvva-venkateshwarlu-a3965b27b.
+- 📄
 
 <h3 align="left">Currently, I have started my journey in Data Structures and Algorithms and Competitive Programming. If you want to join, let's connect! 👯</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85tkj6p5CJA1jjXpzgf-qGmxeW6GutkdkZg&s">
